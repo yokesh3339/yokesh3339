@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yokesh T</h1>
 <h3 align="center">A passionate Fullstack(Python) developer from India</h3>
-<img align="right" alt="certification" width="400" src="https://k21academy.com/wp-content/uploads/2020/12/GCP-ACE.png" >
+<img align="right" alt="certification" width="200" src="https://k21academy.com/wp-content/uploads/2020/12/GCP-ACE.png" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yokesh3339&label=Profile%20views&color=0e75b6&style=flat" alt="yokesh3339" /> </p>
 
 - 🔭 I’m currently working on **Intelligent Classifier**
