@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Professional Machine Learning Engineer**
 
-- 💬 Ask me about **Python, ML Ops, Django, Flask, FastAPI, JavaScript, Google Cloud(Vertex AI, Agent Space, Dataproc, Dataflow,Cloud Composer), Airflow, CICD, Sql and No Sql**
+- 💬 Ask me about **Python, ML Ops, REST Api Development (Django, Flask, FastAPI), JavaScript, Google Cloud(Vertex AI, Agent Space, Dataproc, Dataflow,Cloud Composer), Airflow, CICD, Sql and No Sql**
 
 - 📫 How to reach me **yokeshyokesh19274@gmail.com**
 
