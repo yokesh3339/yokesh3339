@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yokesh T</h1>
-<h3 align="center">A passionate Fullstack(Python) developer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <img align="right" alt="certification" width="200" src="https://k21academy.com/wp-content/uploads/2020/12/GCP-ACE.png" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yokesh3339&label=Profile%20views&color=0e75b6&style=flat" alt="yokesh3339" /> </p>
 
-- 🔭 I’m currently working on **Intelligent Classifier**
+- 🔭 I’m currently working on **GPT Assistants**
 
-- 🌱 I’m currently learning **Google cloud and Data Science**
+- 🌱 I’m currently learning **Professional Machine Learning Engineer**
 
-- 💬 Ask me about **Python, Django, Flask, FastAPI, JavaScript, Google Cloud, Sql and Mongo DB**
+- 💬 Ask me about **Python, Django, Flask, FastAPI, JavaScript, Google Cloud(Vertex AI, Agent Space, Dataproc, Dataflow,Cloud Composer), Airflow, CICD, Sql and No Sql**
 
 - 📫 How to reach me **yokeshyokesh19274@gmail.com**
 
